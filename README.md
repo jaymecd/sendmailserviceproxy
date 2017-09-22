@@ -3,6 +3,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/myles-mcdonnell/sendmailserviceproxy)](https://goreportcard.com/report/github.com/myles-mcdonnell/sendmailserviceproxy)
 [![GoDoc](https://godoc.org/github.com/myles-mcdonnell/sendmailserviceproxy?status.svg)](http://godoc.org/github.com/myles-mcdonnell/sendmailserviceproxy)
 
+[Presentation slides](https://prezi.com/view/wuB2jT1XtDb4IT65S4DS/)
+
 
 This is a JSON over HTTP service that proxies for 2 email services and will fail over between them as necessary. It fails fast and does not attempt to retry failed operations.
 
